@@ -1,0 +1,1 @@
+( PLO ) - Ngành có điểm chuẩn cao nhất_là Du_lịch , khối C với 24,9 điểm , tiếp đến một_số ngành khác có điểm chuẩn khá cao như Báo_chí ( C ) với 24,6 điểm , tâm_lý học ( C ) 23,2 điểm .
